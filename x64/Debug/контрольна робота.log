@@ -1,0 +1,3 @@
+﻿  контрольна робота.cpp
+C:\Users\nadiy\source\repos\контрольна робота\контрольна робота\контрольна робота.cpp(86,53): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+  контрольна робота.vcxproj -> C:\Users\nadiy\source\repos\контрольна робота\x64\Debug\контрольна робота.exe
